@@ -1,0 +1,34 @@
+body{
+    background: linear-gradient(#ffff 0%,#f5f5dc 20%, #c7a07a 30%,#c3754e 60%, #e4a887 100%);
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column ;
+    margin-top: 100px;
+}
+.profileimage{
+    width: 200px;
+}
+.biodata{
+    font-size: 15px;
+    background: linear-gradient(#ffff 0%,#f5f5dc 20%, #e4a887 100%);
+}
+.workexperience{
+   font-size: 15px;
+    background: linear-gradient(#ffff 0%,#f5f5dc 20%, );
+}
+.portofolio{
+background-color: #c7a07a;    font-size: 25px;
+   
+}
+.footer{
+    background-color: #fff;
+    margin-bottom: 0px;
+}
+.contact{
+    font-size: 25px;
+}
+
+
